@@ -1,0 +1,9 @@
+{:allow [myfactura.database.sale/find-by-id]
+
+ :lambdas {:find-by-id {:fn myfactura.database.sale/find-by-id
+                             :description "Gets the sale from the id"
+                             :concurrency-limit 5
+                             :timeout-secs 120}
+
+ :app-name "datil-invoice-project-practice"
+}

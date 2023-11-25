@@ -1,0 +1,51 @@
+{
+    "history-sale": [{
+        "date ": "2019-01-01T00:00:00Z",
+        "user": "user1",
+        "tax-total": "100.00",
+        "subtotal": "100.00",
+        "total": "200.00"
+    }, {
+        "date ": "2019-01-01T00:00:00Z",
+        "user": "user2",
+        "tax-total": "100.00",
+        "subtotal": "100.00",
+        "total": "200.00"
+    }, {
+        "date ": "2019-01-01T00:00:00Z",
+        "user": "user3",
+        "tax-total": "100.00",
+        "subtotal": "100.00",
+        "total": "200.00"
+    }, {
+        "date ": "2019-01-01T00:00:00Z",
+        "user": "user4",
+        "tax-total": "100.00",
+        "subtotal": "100.00",
+        "total": "200.00"
+    }, {
+        "date ": "2019-01-01T00:00:00Z",
+        "user": "user5",
+        "tax-total": "100.00",
+        "subtotal": "100.00",
+        "total": "200.00"
+    }, {
+        "date ": "2019-01-01T00:00:00Z",
+        "user": "user6",
+        "tax-total": "100.00",
+        "subtotal": "100.00",
+        "total": "200.00"
+    }, {
+        "date ": "2019-01-01T00:00:00Z",
+        "user": "user7",
+        "tax-total": "100.00",
+        "subtotal": "100.00",
+        "total": "200.00"
+    }, {
+        "date ": "2019-01-01T00:00:00Z",
+        "user": "user8",
+        "tax-total": "100.00",
+        "subtotal": "100.00",
+        "total": "200.00"
+    }]
+}

@@ -1,0 +1,88 @@
+{
+    "products": [{
+            "code": "1",
+            "name": "Product 1",
+            "tags": ["tag1", "tag2"],
+            "price": 100,
+            "tax-rate": 0.2
+        },
+        {
+            "code": "2",
+            "name": "Product 2",
+            "tags": ["tag1", "tag2"],
+            "price": 200,
+            "tax-rate": 0.2
+        },
+        {
+            "code": "3",
+            "name": "Product 3",
+            "tags": ["tag1", "tag2"],
+            "price": 300,
+            "tax-rate": 0.2
+        },
+        {
+            "code": "4",
+            "name": "Product 4",
+            "tags": ["tag1", "tag2"],
+            "price": 400,
+            "tax-rate": 0.2
+        },
+        {
+            "code": "5",
+            "name": "Product 5",
+            "tags": ["tag1", "tag2"],
+            "price": 500,
+            "tax-rate": 0.2
+        },
+        {
+            "code": "6",
+            "name": "Product 6",
+            "tags": ["tag1", "tag2"],
+            "price": 600,
+            "tax-rate": 0.2
+        },
+        {
+            "code": "7",
+            "name": "Product 7",
+            "tags": ["tag1", "tag2"],
+            "price": 700,
+            "tax-rate": 0.2
+        },
+        {
+            "code": "8",
+            "name": "Product 8",
+            "tags": ["tag1", "tag2"],
+            "price": 800,
+            "tax-rate": 0.2
+        },
+        {
+            "code": "9",
+            "name": "Product 9",
+            "tags": ["tag1", "tag2"],
+            "price": 900,
+            "tax-rate": 0.2
+        },
+        {
+            "code": "10",
+            "name": "Product 10",
+            "tags": ["tag1", "tag2"],
+            "price": 1000,
+            "tax-rate": 0.2
+        },
+        {
+            "code": "11",
+            "name": "Product 11",
+            "tags": ["tag1", "tag2"],
+            "price": 1100,
+            "tax-rate": 0.2
+        },
+        {
+            "code": "12",
+            "name": "Product 12",
+            "tags": ["tag1", "tag2"],
+            "price": 1200,
+            "tax-rate": 0.2
+        }
+
+    ]
+}
